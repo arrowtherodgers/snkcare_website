@@ -1,0 +1,13 @@
+{
+  "name": "snkcare_website",
+  "version": "1.0.0",
+  "description": "Snkcare Website for Alex Lb",
+  "main": "index.html",
+  "repository": "https://github.com/arrowtherodgers/snkcare_website.git",
+  "author": "Arun Rodgers <therodgers13@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "grunt": "^1.0.2",
+    "particles.js": "^2.0.0"
+  }
+}
