@@ -2,12 +2,19 @@
   "name": "snkcare_website",
   "version": "1.0.0",
   "description": "Snkcare Website for Alex Lb",
-  "main": "index.html",
+  "main": "index.js",
   "repository": "https://github.com/arrowtherodgers/snkcare_website.git",
   "author": "Arun Rodgers <therodgers13@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "grunt": "^1.0.2",
-    "particles.js": "^2.0.0"
+    "bootstrap": "4.0.0",
+    "jquery": "^3.3.1",
+    "particles.js": "^2.0.0",
+    "popper.js": "^1.14.1"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.23.6",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.1.0"
   }
 }
